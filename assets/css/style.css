@@ -1,0 +1,16 @@
+.background {
+    background-image:url(../images/hospital.png);
+      margin:0;
+  padding:0;
+  -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+  background-size: cover;
+}
+
+.formPatient {
+    background-color: #6699CC;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+
